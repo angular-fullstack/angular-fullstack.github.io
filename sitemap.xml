@@ -8,9 +8,9 @@
     </url>    <url>
         <loc>https://webpack.js.org/examples/index.html</loc>
     </url>    <url>
-        <loc>https://webpack.js.org/developing/index.html</loc>
-    </url>    <url>
         <loc>https://webpack.js.org/generators/index.html</loc>
+    </url>    <url>
+        <loc>https://webpack.js.org/developing/index.html</loc>
     </url>    <url>
         <loc>https://webpack.js.org/get-started/index.html</loc>
     </url>    <url>
@@ -19,8 +19,6 @@
         <loc>https://webpack.js.org/examples/Heroku_Deployment/index.html</loc>
     </url>    <url>
         <loc>https://webpack.js.org/examples/IIS/index.html</loc>
-    </url>    <url>
-        <loc>https://webpack.js.org/developing/01_Adding_a_Route/index.html</loc>
     </url>    <url>
         <loc>https://webpack.js.org/generators/app/index.html</loc>
     </url>    <url>
@@ -43,6 +41,8 @@
         <loc>https://webpack.js.org/generators/route/index.html</loc>
     </url>    <url>
         <loc>https://webpack.js.org/generators/service/index.html</loc>
+    </url>    <url>
+        <loc>https://webpack.js.org/developing/01_Adding_a_Route/index.html</loc>
     </url>    <url>
         <loc>https://webpack.js.org/get-started/installation/index.html</loc>
     </url>    <url>
