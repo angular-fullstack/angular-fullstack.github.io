@@ -22,9 +22,9 @@
     </url>    <url>
         <loc>https://webpack.js.org/examples/IIS/index.html</loc>
     </url>    <url>
-        <loc>https://webpack.js.org/generators/app/index.html</loc>
-    </url>    <url>
         <loc>https://webpack.js.org/generators/component/index.html</loc>
+    </url>    <url>
+        <loc>https://webpack.js.org/generators/app/index.html</loc>
     </url>    <url>
         <loc>https://webpack.js.org/generators/controller/index.html</loc>
     </url>    <url>
