@@ -6,9 +6,9 @@
     </url>    <url>
         <loc>https://webpack.js.org/deployment/index.html</loc>
     </url>    <url>
-        <loc>https://webpack.js.org/examples/index.html</loc>
-    </url>    <url>
         <loc>https://webpack.js.org/developing/index.html</loc>
+    </url>    <url>
+        <loc>https://webpack.js.org/examples/index.html</loc>
     </url>    <url>
         <loc>https://webpack.js.org/generators/index.html</loc>
     </url>    <url>
@@ -16,27 +16,27 @@
     </url>    <url>
         <loc>https://webpack.js.org/guides/index.html</loc>
     </url>    <url>
+        <loc>https://webpack.js.org/developing/01_Adding_a_Route/index.html</loc>
+    </url>    <url>
         <loc>https://webpack.js.org/examples/Heroku_Deployment/index.html</loc>
     </url>    <url>
         <loc>https://webpack.js.org/examples/IIS/index.html</loc>
-    </url>    <url>
-        <loc>https://webpack.js.org/developing/01_Adding_a_Route/index.html</loc>
     </url>    <url>
         <loc>https://webpack.js.org/generators/app/index.html</loc>
     </url>    <url>
         <loc>https://webpack.js.org/generators/component/index.html</loc>
     </url>    <url>
+        <loc>https://webpack.js.org/generators/controller/index.html</loc>
+    </url>    <url>
         <loc>https://webpack.js.org/generators/decorator/index.html</loc>
     </url>    <url>
         <loc>https://webpack.js.org/generators/directive/index.html</loc>
     </url>    <url>
-        <loc>https://webpack.js.org/generators/controller/index.html</loc>
-    </url>    <url>
         <loc>https://webpack.js.org/generators/endpoint/index.html</loc>
     </url>    <url>
-        <loc>https://webpack.js.org/generators/filter/index.html</loc>
-    </url>    <url>
         <loc>https://webpack.js.org/generators/heroku/index.html</loc>
+    </url>    <url>
+        <loc>https://webpack.js.org/generators/filter/index.html</loc>
     </url>    <url>
         <loc>https://webpack.js.org/generators/openshift/index.html</loc>
     </url>    <url>
