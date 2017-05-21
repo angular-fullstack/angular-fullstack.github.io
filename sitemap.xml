@@ -18,9 +18,9 @@
     </url>    <url>
         <loc>https://webpack.js.org/developing/01_Adding_a_Route/index.html</loc>
     </url>    <url>
-        <loc>https://webpack.js.org/examples/IIS/index.html</loc>
-    </url>    <url>
         <loc>https://webpack.js.org/examples/Heroku_Deployment/index.html</loc>
+    </url>    <url>
+        <loc>https://webpack.js.org/examples/IIS/index.html</loc>
     </url>    <url>
         <loc>https://webpack.js.org/generators/app/index.html</loc>
     </url>    <url>
