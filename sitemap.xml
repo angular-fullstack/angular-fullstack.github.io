@@ -4,11 +4,11 @@
     </url>    <url>
         <loc>https://webpack.js.org/contribute/index.html</loc>
     </url>    <url>
+        <loc>https://webpack.js.org/developing/index.html</loc>
+    </url>    <url>
         <loc>https://webpack.js.org/deployment/index.html</loc>
     </url>    <url>
         <loc>https://webpack.js.org/examples/index.html</loc>
-    </url>    <url>
-        <loc>https://webpack.js.org/developing/index.html</loc>
     </url>    <url>
         <loc>https://webpack.js.org/generators/index.html</loc>
     </url>    <url>
@@ -16,11 +16,11 @@
     </url>    <url>
         <loc>https://webpack.js.org/guides/index.html</loc>
     </url>    <url>
+        <loc>https://webpack.js.org/developing/01_Adding_a_Route/index.html</loc>
+    </url>    <url>
         <loc>https://webpack.js.org/examples/Heroku_Deployment/index.html</loc>
     </url>    <url>
         <loc>https://webpack.js.org/examples/IIS/index.html</loc>
-    </url>    <url>
-        <loc>https://webpack.js.org/developing/01_Adding_a_Route/index.html</loc>
     </url>    <url>
         <loc>https://webpack.js.org/generators/app/index.html</loc>
     </url>    <url>
@@ -40,15 +40,15 @@
     </url>    <url>
         <loc>https://webpack.js.org/generators/openshift/index.html</loc>
     </url>    <url>
-        <loc>https://webpack.js.org/generators/route/index.html</loc>
-    </url>    <url>
         <loc>https://webpack.js.org/generators/service/index.html</loc>
+    </url>    <url>
+        <loc>https://webpack.js.org/generators/route/index.html</loc>
     </url>    <url>
         <loc>https://webpack.js.org/get-started/installation/index.html</loc>
     </url>    <url>
         <loc>https://webpack.js.org/get-started/overview/index.html</loc>
     </url>    <url>
-        <loc>https://webpack.js.org/guides/asdf/index.html</loc>
-    </url>    <url>
         <loc>https://webpack.js.org/get-started/running/index.html</loc>
+    </url>    <url>
+        <loc>https://webpack.js.org/guides/asdf/index.html</loc>
     </url></urlset>
