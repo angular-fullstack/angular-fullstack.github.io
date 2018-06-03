@@ -11,7 +11,7 @@
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/2/docsearch.min.css" />
     
-      <link href="/75f6e2923455928d1eda.css" rel="stylesheet">
+      <link href="/c6b24b67b568360e1891.css" rel="stylesheet">
     
 
     <script src="https://cdn.jsdelivr.net/docsearch.js/2/docsearch.min.js"></script>
@@ -21,23 +21,15 @@
 <p>Generates a new route.</p>
 <p>Example:</p>
 <pre><code class="lang-bash">yo angular-fullstack:route myroute
-<span class="token punctuation">[</span>?<span class="token punctuation">]</span> What module name would you like to use? myApp.myroute
 <span class="token punctuation">[</span>?<span class="token punctuation">]</span> Where would you like to create this route? client/app/
 <span class="token punctuation">[</span>?<span class="token punctuation">]</span> What will the url of your route be? /myroute
 </code></pre>
 <p>Produces:</p>
-<pre><code>client/app/myroute/myroute.js
-client/app/myroute/myroute.component.js
+<pre><code>client/app/myroute/myroute.component.js
 client/app/myroute/myroute.component.spec.js
 client/app/myroute/myroute.html
-client/app/myroute/myroute.scss
-</code></pre><p>Your new <code>myroute.component.js</code> will contain Angular code registering a new module, defaulting to <code>myApp.myRoute</code>. The default export of the component will be this name. Make sure to import this name in a parent Angular module, and add it as a dependency like so:</p>
-<pre><code class="lang-js"><span class="token keyword">import</span> MyRouteModule <span class="token keyword">from</span> <span class="token string">&apos;./myroute/myroute.component&apos;</span><span class="token punctuation">;</span>
-
-<span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">.</span>
-
-angular<span class="token punctuation">.</span><span class="token function">module</span><span class="token punctuation">(</span><span class="token string">&apos;myApp.myParent&apos;</span><span class="token punctuation">,</span> <span class="token punctuation">[</span>MyRouteModule<span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-</code></pre>
+client/app/myroute/myroute.module.js
+</code></pre><p>The generator will also add the new route&apos;s <code>NgModule</code> to the imports of your main <code>AppModule</code>. You may want to move this import to a sub-module.</p>
 </div><hr style="display:none;"><h3 style="display:none;">Contributors</h3><noscript></noscript></section></div><div class="footer"><div class="container footer__inner"><section class="footer__left"><a href="/get-started" class="footer__link">Get Started</a><a href="https://github.com/angular-fullstack" target="_blank" class="footer__link">Organization</a><a href="https://github.com/angular-fullstack/generator-angular-fullstack/blob/master/contributing.md" target="_blank" class="footer__link">Contribute</a></section><section class="footer__middle"><a href="/" class="footer__icon"><img src="/44c8aeaa24cb28d0a5c6a45de449fd7d.svg"></a></section><section class="footer__right"><a href="https://gitter.im/angular-fullstack/generator-angular-fullstack" target="_blank" class="footer__link">Support</a><a href="https://github.com/angular-fullstack/generator-angular-fullstack/releases" target="_blank" class="footer__link">Changelog</a></section></div></div><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-46921629-2', 'auto');ga('send', 'pageview');</script></div>
 
     
