@@ -11,7 +11,7 @@
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/2/docsearch.min.css" />
     
-      <link href="/7288153defc2fe2279d7.css" rel="stylesheet">
+      <link href="/8b75a7eacb93143798e2.css" rel="stylesheet">
     
 
     <script src="https://cdn.jsdelivr.net/docsearch.js/2/docsearch.min.js"></script>
@@ -30,7 +30,7 @@ Here we use mlab:</p>
 <pre><code>gulp build
 </code></pre><p>This creates a folder called <code>dist</code>. </p>
 <p>Now go to <code>dist</code> and set it up as a git repository:</p>
-<pre><code><span class="token function">git</span> init 
+<pre><code><span class="token function">git</span> init
 </code></pre><p>Add Heroku&apos;s app as your <code>dist</code> folder&apos;s remote repository:</p>
 <pre><code>heroku git:remote -a myapp
 </code></pre><p>It is time to push your local repository to Heroku. From your app&apos;s root run:</p>
@@ -46,13 +46,14 @@ Here we use mlab:</p>
   <span class="token punctuation">}</span>
 <span class="token punctuation">}</span>
 </code></pre><p>One of the odd things about the Node driver is that the default timeout for replica set connections is only 1 second, so make sure you&apos;re setting it to something more like 30s like in this example.</p>
+<p>&gt;</p>
 <blockquote>
 <p>If you&apos;re using any oAuth strategies, you must set environment variables for your selected oAuth. For example, if we&apos;re using <strong>Facebook</strong> oAuth we would do this :</p>
 <pre><code>heroku config:set FACEBOOK_ID<span class="token operator">=</span>id
 heroku config:set FACEBOOK_SECRET<span class="token operator">=</span>secret
 </code></pre><p>You will also need to set <code>DOMAIN</code> environment variable:</p>
 <pre><code>heroku config:set DOMAIN<span class="token operator">=</span><span class="token operator">&lt;</span>your-heroku-app-name<span class="token operator">&gt;</span>.herokuapp.com
-<span class="token comment"># or (if you&apos;re using it):</span>
+<span class="token comment" spellcheck="true"># or (if you&apos;re using it):</span>
 heroku config:set DOMAIN<span class="token operator">=</span><span class="token operator">&lt;</span>your-custom-domain<span class="token operator">&gt;</span>
 </code></pre></blockquote>
 <h4 class="header"><a class="anchor" href="#pushing-updates" id="pushing-updates"></a><span class="text">Pushing Updates</span><a class="icon-link" href="#pushing-updates"></a></h4>
